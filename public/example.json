@@ -1,0 +1,93 @@
+{
+    "documents":[
+       {
+          "address":{
+             "address_name":"서울 구로구 개봉동",
+             "b_code":"1153010700",
+             "h_code":"",
+             "main_address_no":"",
+             "mountain_yn":"N",
+             "region_1depth_name":"서울",
+             "region_2depth_name":"구로구",
+             "region_3depth_h_name":"",
+             "region_3depth_name":"개봉동",
+             "sub_address_no":"",
+             "x":"126.857746551058",
+             "y":"37.4930115322775"
+          },
+          "address_name":"서울 구로구 개봉동",
+          "address_type":"REGION",
+          "road_address":null,
+          "x":"126.857746551058",
+          "y":"37.4930115322775"
+       },
+       {
+          "address":{
+             "address_name":"서울 구로구 개봉1동",
+             "b_code":"",
+             "h_code":"1153074000",
+             "main_address_no":"",
+             "mountain_yn":"N",
+             "region_1depth_name":"서울",
+             "region_2depth_name":"구로구",
+             "region_3depth_h_name":"개봉1동",
+             "region_3depth_name":"",
+             "sub_address_no":"",
+             "x":"126.851146433462",
+             "y":"37.5002655077752"
+          },
+          "address_name":"서울 구로구 개봉1동",
+          "address_type":"REGION",
+          "road_address":null,
+          "x":"126.851146433462",
+          "y":"37.5002655077752"
+       },
+       {
+          "address":{
+             "address_name":"서울 구로구 개봉2동",
+             "b_code":"",
+             "h_code":"1153075000",
+             "main_address_no":"",
+             "mountain_yn":"N",
+             "region_1depth_name":"서울",
+             "region_2depth_name":"구로구",
+             "region_3depth_h_name":"개봉2동",
+             "region_3depth_name":"",
+             "sub_address_no":"",
+             "x":"126.856542943987",
+             "y":"37.490880097229"
+          },
+          "address_name":"서울 구로구 개봉2동",
+          "address_type":"REGION",
+          "road_address":null,
+          "x":"126.856542943987",
+          "y":"37.490880097229"
+       },
+       {
+          "address":{
+             "address_name":"서울 구로구 개봉3동",
+             "b_code":"",
+             "h_code":"1153076000",
+             "main_address_no":"",
+             "mountain_yn":"N",
+             "region_1depth_name":"서울",
+             "region_2depth_name":"구로구",
+             "region_3depth_h_name":"개봉3동",
+             "region_3depth_name":"",
+             "sub_address_no":"",
+             "x":"126.853852194023",
+             "y":"37.4860041527514"
+          },
+          "address_name":"서울 구로구 개봉3동",
+          "address_type":"REGION",
+          "road_address":null,
+          "x":"126.853852194023",
+          "y":"37.4860041527514"
+       }
+    ],
+    "meta":{
+       "is_end":true,
+       "pageable_count":4,
+       "total_count":4
+    }
+ }
